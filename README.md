@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FentonPlusPlus (aka Fenton)
-- 👀 I’m interested in anything that's interesting.
-- 🌱 I’m currently learning... ask me!
-- 💞️ I’m looking to collaborate on... ask me later!
+- 👀 I’m interested in coding, music, films, tv, games, history and much more... ask me :)
+- 🌱 I’m currently learning HTML, CSS and JavaScript!
+- 💞️ I’m looking to collaborate on anything at the moment really.
 - 📫 How to reach me... email me at fentonhutson@gmail.com :) !
 
 <!---
