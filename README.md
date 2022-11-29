@@ -1,4 +1,4 @@
-# Hello I'm ***Fenton***
+# Hello, I'm ***Fenton***
 a [composer](https://www.fentonhutson.com/) and developer.
 
 Here you can find some of the projects I have worked or am working on.
