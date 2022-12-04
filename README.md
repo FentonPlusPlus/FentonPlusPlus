@@ -27,8 +27,8 @@ I'm passionate about many things, but ultimately, I just love to create stuff. T
 <img src="https://user-images.githubusercontent.com/112075131/204650500-76058c92-6ef8-41a8-922d-9865818f2d99.png" alt="Figma" width="50" />
 </ul>
 
-### Repos
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FentonPlusPlus)](https://github.com/anuraghazra/github-readme-stats)
+### What I've used
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Get in touch
 
