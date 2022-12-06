@@ -14,18 +14,19 @@ I'm passionate about many things, but ultimately, I just love to create stuff. T
 - Audio DSP
 
 ### Toolstack under my belt
-<ul>
-<img src="https://user-images.githubusercontent.com/112075131/204647768-d4a98630-b36a-4d6d-a245-a1dd8903dd01.png" alt="javascript" width="50" />
-<img src="https://user-images.githubusercontent.com/112075131/204647854-41b9ebfd-3eb9-4b04-a557-6a1094cfc82c.png" alt="java" width="50" />
-<img src="https://user-images.githubusercontent.com/112075131/204650190-9d4b7621-2601-47cf-a40e-46f1532a46f7.png" alt="react" width="50" />
-<img src="https://user-images.githubusercontent.com/112075131/204649112-53603ae1-cd8a-41d2-9c51-5ff52188126b.png" alt="mySQL" width="50" />
-<img src="https://user-images.githubusercontent.com/112075131/204650066-d269c5b4-0229-4e95-abbf-e47ae99424ad.png" alt="PostgresSQL" width="50" />
-<img src="https://user-images.githubusercontent.com/112075131/204650277-86ca8a85-49cf-42bc-849f-0d209901e38d.png" alt="Node" width="50" />
-<img src="https://user-images.githubusercontent.com/112075131/204650404-f65db300-95b3-4f5c-9ae0-bbddd38a8a04.png" alt="Git" width="50" />
-<img src="https://user-images.githubusercontent.com/112075131/204649414-66db8eeb-9946-42ea-a100-d49599033b85.png" alt="HTML" width="50" />
-<img src="https://user-images.githubusercontent.com/112075131/204649611-75589fe0-0dae-41b7-bf90-8820c471e56e.png" alt="CSS" width="50" />
-<img src="https://user-images.githubusercontent.com/112075131/204650500-76058c92-6ef8-41a8-922d-9865818f2d99.png" alt="Figma" width="50" />
-</ul>
+<p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
 ### What I've used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
