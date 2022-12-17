@@ -1,5 +1,5 @@
 # Hello, I'm ***Fenton***
-a [composer](https://www.fentonhutson.com/) and developer.
+a developer and, when I have time, [composer](https://www.fentonhutson.com/)
 
 Here you can find some of the projects I have worked or am working on.
 I'm passionate about many things, but ultimately, I just love to create stuff. Talk to me sometime, let's share interests, and who knows what we might have in common :)
