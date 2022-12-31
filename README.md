@@ -6,12 +6,12 @@ I'm passionate about many things, but ultimately, I just love to create stuff. T
 
 ### What I'm learning...
 - All things web development  
-  - Advanced React.js, Next.js
   - Advanced UI/UX design
-  - Typescript
   - Angular.js, Vue.js
+  - Firebase, Auth0
 - C++
 - Audio DSP
+- Spring Framework for Java
 
 ### Toolstack under my belt
 <p align="left">
