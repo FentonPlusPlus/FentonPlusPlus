@@ -38,7 +38,7 @@ Though I am passionate about many things, ultimately I just love to create stuff
 
 ### Get in touch
 
-I’m always looking to collaborate so feel free to get in touch at [fentonhutson@gmail.com] !
+I’m always looking to collaborate so feel free to get in touch at fentonhutson@gmail.com !
 
 <p align="left"> <a href="https://discord.com/users/Fenton#3994" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/FentonPlusPlus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
