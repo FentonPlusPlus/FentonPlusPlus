@@ -1,8 +1,9 @@
 # Hello, I'm ***Fenton***
-I developer stuff and, when I have time, [compose stuff](https://www.fentonhutson.com/)
+I develop stuff and, when I have time, [compose stuff](https://www.fentonhutson.com/)
 
-Here you can find some of the projects I have worked or am working on.
-I'm passionate about many things, but ultimately, I just love to create stuff. Talk to me sometime, let's share interests, and who knows what we might have in common :)
+Here you can find some of the projects I have worked or am working on. My main background has been in the music, audio and games industry, and I have a deep passion for story-telling and creating things that allows others to explore their individuality and creativity. I became interested in coding whilst working for a small but great indie game studio called Gamechuck. Here I started studying Python in my spare time, which eventually led to me learning software development with Java, and then eventually web development with Javascript at the School of Code. 
+
+Though I am passionate about many things, ultimately I just love to create stuff. So... Talk to me sometime, let's share interests, and who knows what we might have in common :)
 
 ### What I'm learning...
 - All things web development  
