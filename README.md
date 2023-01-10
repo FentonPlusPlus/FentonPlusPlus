@@ -1,5 +1,5 @@
 # Hello, I'm ***Fenton***
-I develop stuff and, when I have time, [compose stuff](https://www.fentonhutson.com/).
+A junior developer.
 
 Here you can find some of the projects I have worked or am working on. My main background has been in the music, audio and games industry, and I have a deep passion for story-telling and creating things that allows others to explore their individuality and creativity. I became interested in coding whilst working for a small but great indie game studio called Gamechuck. Here I started studying Python in my spare time, which eventually led to me learning software development with Java, and then eventually web development with Javascript at the School of Code. 
 
