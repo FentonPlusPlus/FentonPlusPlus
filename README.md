@@ -8,7 +8,7 @@ Though I am passionate about many things, ultimately I just love to create stuff
 ### What I'm learning...
 - All things web development  
   - Next.js
-  - UI Libraries (Chakra UI, Bootstrap UI)
+  - UI Libraries (Tailwind with Daisy UI and MUI)
   - NoSQL Databases (MongoDB)
   - Firebase, Auth0
 - C++
