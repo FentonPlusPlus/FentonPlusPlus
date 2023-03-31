@@ -5,15 +5,6 @@ Here you can find some of the projects I have worked or am working on. I have a 
 
 Though I am passionate about many things, ultimately I just love to understand and create stuff. So... Talk to me sometime, let's share interests, and who knows what we might have in common :)
 
-### What I'm learning...
-- All things web development  
-  - Next.js
-  - UI Libraries (Tailwind with Daisy UI and MUI)
-  - NoSQL Databases (MongoDB)
-  - Firebase, Auth0
-- C++
-- Spring Framework for Java
-
 ### Toolstack under my belt
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
