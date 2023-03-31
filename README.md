@@ -1,7 +1,7 @@
 # Hello, I'm ***Fenton***
 A junior full-stack developer. 
 
-
+<h1 align='center'>About Me</h1>
 <div style='display:flex; justify-content:center'>
 
 <div style='display:flex; justify-content:center' align="center">
