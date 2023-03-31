@@ -1,9 +1,15 @@
 # Hello, I'm ***Fenton***
-A junior developer. 
+A junior full-stack developer. 
 
-Here you can find some of the projects I have worked or am working on. I have a deep passion for interactivity and creating things that allows others to explore their individuality, creativity and create meaningful experiences. I became interested in coding whilst working for a small, but great, indie game studio called Gamechuck. Here I started studying Python in my spare time, which eventually led to me learning software development with Java, and then eventually web development with Javascript at the School of Code. 
+<div style="display:flex; justify-content:center' align="center">
 
+<p>I have a deep passion for interactivity and creating tech and digital experiences that allow for user-curated experiences and exploration of individuality. 
+I became interested in coding whilst working for a small, but great, indie game studio called Gamechuck. Here I started studying Python in my spare time, which eventually led to learning and building software with Java, and then eventually web development with Javascript in Node.js
+</p>
+<p>
 Though I am passionate about many things, ultimately I just love to understand and create stuff. So... Talk to me sometime, let's share interests, and who knows what we might have in common :)
+</p>
+</div>
 
 ### Toolstack under my belt
 <p align="left">
@@ -23,7 +29,7 @@ Though I am passionate about many things, ultimately I just love to understand a
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-
+Here you can find some of the projects I have worked or am working on. 
 ### What I've used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FentonPlusPlus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
