@@ -9,13 +9,18 @@ A junior full-stack developer.
 <p>I have a deep passion for interactivity and creating tech and digital experiences that allow for user-curated experiences and exploration of individuality. 
   </p>
   <p>
-I became interested in coding whilst working for a small, but great, indie game studio called Gamechuck. Here I started studying Python in my spare time, which eventually led to learning and building software with Java, and then eventually web development with Javascript in Node.js
+I became interested in coding whilst working for a small, but great, indie game studio called Gamechuck. Here I started studying Python in my spare time, which eventually led to learning and building software with Java, and then eventually web development with Javascript in Node.js.
 </p>
 <p>
 Though I am passionate about many things, ultimately I just love to understand and create stuff. So... Talk to me sometime, let's share interests, and who knows what we might have in common :)
 </p>
 </div>
 </div>
+<div style='display:flex; flex-direction:row; justify-content:center'>
+<h3 align='center'>Socials</Socials>
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white
+https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
 
 ### Toolstack under my belt
 <p align="left">
