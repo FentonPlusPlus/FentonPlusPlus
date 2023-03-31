@@ -1,12 +1,14 @@
 # Hello, I'm ***Fenton***
 A junior full-stack developer. 
 
-<h1 align='center'>About Me</h1>
+<h2 align='center'>About Me</h2>
 <div style='display:flex; justify-content:center'>
 
 <div style='display:flex; justify-content:center' align="center">
 
 <p>I have a deep passion for interactivity and creating tech and digital experiences that allow for user-curated experiences and exploration of individuality. 
+  </p>
+  <p>
 I became interested in coding whilst working for a small, but great, indie game studio called Gamechuck. Here I started studying Python in my spare time, which eventually led to learning and building software with Java, and then eventually web development with Javascript in Node.js
 </p>
 <p>
