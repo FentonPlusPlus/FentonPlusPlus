@@ -1,7 +1,10 @@
 # Hello, I'm ***Fenton***
 A junior full-stack developer. 
 
-<div style="display:flex; justify-content:center' align="center">
+
+<div style='display:flex; justify-content:center'>
+
+<div style='display:flex; justify-content:center' align="center">
 
 <p>I have a deep passion for interactivity and creating tech and digital experiences that allow for user-curated experiences and exploration of individuality. 
 I became interested in coding whilst working for a small, but great, indie game studio called Gamechuck. Here I started studying Python in my spare time, which eventually led to learning and building software with Java, and then eventually web development with Javascript in Node.js
@@ -9,6 +12,7 @@ I became interested in coding whilst working for a small, but great, indie game 
 <p>
 Though I am passionate about many things, ultimately I just love to understand and create stuff. So... Talk to me sometime, let's share interests, and who knows what we might have in common :)
 </p>
+</div>
 </div>
 
 ### Toolstack under my belt
