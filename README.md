@@ -32,9 +32,7 @@ Though I am passionate about many things, ultimately I just love to understand a
   </a>
 </p>
                                                                         
-<div style='display:flex; flex-direction:row;'>
-<h2 align='center'>Projects</h2>
-</div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FentonPlusPlus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
