@@ -26,20 +26,17 @@ Though I am passionate about many things, ultimately I just love to understand a
 </div>
 
 <h2>Toolstack under my belt</h2>
-<p align="center">Languages:
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,java,html" />
+    <img src="https://skillicons.dev/icons?i=js,ts,java,html,nodejs,react,express,nextjs,css,tailwind,bootstrap,figma,postgres,mysql,mongodb,jest,git,github,netlify,render,vercel,aws" />
   </a>
 </p>
                                                                         
-
-Here you can find some of the projects I have worked or am working on. 
-### What I've used
+<div style='display:flex; flex-direction:row;'>
+<h2 align='center'>Projects</h2>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FentonPlusPlus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-### Get in touch
-
-I’m always looking to collaborate so feel free to get in touch at fentonhutson@gmail.com !
 
 <p align="left"> <a href="https://discord.com/users/Fenton#3994" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/FentonPlusPlus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
