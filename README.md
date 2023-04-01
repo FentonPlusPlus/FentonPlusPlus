@@ -18,11 +18,10 @@ Though I am passionate about many things, ultimately I just love to understand a
 </div>
 <div style='display:flex; flex-direction:row;'>
   <h3 align='center'>Socials<h3>
-   <br />
    <div align='center'>
      <a href="https://www.linkedin.com/in/fentonhutson/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://fenton-hutson.netlify-app/" target="_blank"><img src="https://img.shields.io/badge/-my_Portfolio-E4B1AB?style=for-the-badge&logo=ko-f&logoColor=white" target="_blank"></a>
-   <a href="mailto: fentonhutson@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+   <a href="https://fenton-hutson.netlify.app/) target="_blank"><img src="https://img.shields.io/badge/-my_Portfolio-000000?style=for-the-badge&logo=ko-f&logoColor=black" target="_blank"></a>
+   <a href="mailto: fentonhutson@gmail.com"><img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a> 
     </div>
 </div>
 
