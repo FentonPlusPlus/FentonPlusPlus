@@ -25,12 +25,13 @@ Though I am passionate about many things, ultimately I just love to understand a
     </div>
 </div>
 
-<div style='display:flex; justify-content:center'>
 <h2>Toolstack under my belt</h2>
-<p>Languages: </p>(https://skillicons.dev/icons?i=js,ts,java,html,)](https://skillicons.dev)
-</div>
-<p>Backend & Frameworks: </p>(https://skillicons.dev/icons?i=node,react,express,next)](https://skillicons.dev)
-</div>
+<p align="center">Languages:
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,java,html" />
+  </a>
+</p>
+                                                                        
 
 Here you can find some of the projects I have worked or am working on. 
 ### What I've used
