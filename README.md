@@ -33,9 +33,9 @@ Though I am passionate about many things, ultimately I just love to understand a
 </p>
                                                                         
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FentonPlusPlus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<div style='display:flex; justify-content:center'>
 <p align="left"> <a href="https://discord.com/users/Fenton#3994" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/FentonPlusPlus" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-
+</div>
 <!---
 FentonPlusPlus/FentonPlusPlus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
