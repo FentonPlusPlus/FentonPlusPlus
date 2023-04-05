@@ -1,5 +1,5 @@
 <h1 align='center'>Hello, I'm <span style='italic'>Fenton</span><h1>
-<p align='center' style='font-size: 16px;'>A junior full-stack developer.</p> 
+<p align='center' style='font-size: 10px;'>A junior full-stack developer.</p> 
 
 <h2 align='center'>About Me</h2>
 <div style='display:flex; justify-content:center'>
