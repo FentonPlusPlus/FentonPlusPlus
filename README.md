@@ -28,7 +28,7 @@ Though I am passionate about many things, ultimately I just love to understand a
 <h2 align='center'>Toolstack under my belt</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,java,html,nodejs,react,express,nextjs,css,tailwind,bootstrap,figma,postgres,mysql,mongodb,jest,git,github,netlify,vercel,aws" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,java,html,nodejs,react,express,nextjs,css,tailwind,bootstrap,figma,postgres,mysql,mongodb,jest,git,github,idea,netlify,vercel,aws" />
   </a>
 </p>
                                                                         
