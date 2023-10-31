@@ -1,6 +1,6 @@
-<h3>Hello, I'm Fenton, a backend dev for Codeweavers<h3>
+<h2>Hello, I'm Fenton, a backend dev for Codeweavers<h3>
 
-<h2>About Me</h2>
+<h3>About Me</h2>
 <div style='display:flex; justify-content:left' align="left">
   <p>
   I became interested in coding whilst working in the games industry. Here I started studying Python in my spare time, which eventually led to learning and building software with Java, and then eventually web development with Javascript in Node.js., to eventually what I do, building, scaling and maintaining web services in ASP. NET with C#.
