@@ -1,4 +1,4 @@
-<h2>Hello, I'm Fenton, a backend dev.<h3>
+<h2>Hello, I'm Fenton, a software developer.<h3>
 
 <h3>About Me</h2>
 <div style='display:flex; justify-content:left' align="left">
