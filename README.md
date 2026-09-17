@@ -8,6 +8,8 @@
   </p>
 </div>
 
+<h4><a href="https://registry.jsonresume.org/FentonPlusPlus">Curriculum Vitae</a></h4>
+
 <h2 align='left'>Toolstack under my belt</h2>
 <p align="left">
   <a href="https://skillicons.dev">
