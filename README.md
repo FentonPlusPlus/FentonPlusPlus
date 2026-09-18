@@ -1,7 +1,7 @@
 <h3>About Me</h2>
 <div style='display:flex; justify-content:left' align="left">
   <p>
-  I became interested in coding whilst working in the games industry. Here I started studying Python in my spare time, which eventually led to learning and building software with Java, and then eventually web development with Javascript in Node.js., to eventually what I do, building, scaling and maintaining web services in ASP. NET with C# for Codeweavers.
+  I became interested in coding whilst working in the games industry. Here I started studying Python in my spare time, which eventually led to learning and building software with Java, and then eventually web development with Javascript in Node.js., to eventually what I do, building, scaling and maintaining web services in .NET with C# for Codeweavers.
   </p>
   <p>
   Though I am passionate about many things, ultimately I just love to understand and create stuff. So... Talk to me sometime, let's share interests, and who knows what we might have in common :)
